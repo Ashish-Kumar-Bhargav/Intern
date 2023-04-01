@@ -1,0 +1,157 @@
+.col-md-1
+{
+    background-color: blue;
+    height: 97vh;
+}
+.col-md-1 i{
+    font-size: 20px;
+    margin-top: 10vh;
+}
+/* .fa-gear
+{
+    background-color: orangered;
+    border-radius: 20px;
+    background-size: 20px;
+
+} */
+.col-md-2
+{
+    border-right: 1px solid gray;
+
+}
+.col-md-2 i
+{
+    margin-right: 179px;
+    margin-top: 20px;
+
+    
+}
+h6{
+    font-size: 1rem;
+    margin-right: 60px;
+    margin-top: -22px;
+}
+h5{
+    font-size: 1rem;
+    margin-right: 115px;
+    margin-top: -22px;
+}
+label
+{
+    display: flex;
+}
+input
+{
+    margin-top: 10px;
+}
+
+
+.button2 {
+  appearance: button;
+  background-color: #1652F0;
+  border: 1px solid #1652F0;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Graphik,-apple-system,system-ui,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  font-size: 17px;
+  margin-left: 35px;
+
+  line-height: 1.15;
+  overflow: visible;
+  padding: 12px 37px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  transition: all 80ms ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+}
+
+.button2:disabled {
+  opacity: .5;
+}
+
+.button2:focus {
+  outline: 0;
+}
+
+.button2:hover {
+  background-color: #0A46E4;
+  border-color: #0A46E4;
+}
+
+.button2:active {
+  background-color: #0039D7;
+  border-color: #0039D7;
+}
+
+
+
+.button1 {
+  background-color: #FFFFFF;
+  border: 0;
+  border: 1px solid #1652F0;
+
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #111827;
+  cursor: pointer;
+  font-family: Graphik,-apple-system,system-ui,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  font-size: 17px;
+  line-height: 1.15;
+  overflow: visible;
+  padding: 12px 28px;
+  margin-left: 14px;
+
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  transition: all 80ms ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+}
+
+.button1:hover {
+  background-color: rgb(249,250,251);
+}
+
+.button1:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.button1:focus-visible {
+  box-shadow: none;
+}
+.col-md-8 i{
+    text-align: right;
+    margin-top: 46px;
+    
+
+}
+.images{
+    margin-top: 150px;
+}
+.image{
+    margin: 21px;
+}
+.image2{
+    margin: 38px;
+}
+.image1
+{
+    margin-top: 168%;
+    width: -4px;
+    /* max-width: 25px; */
+    /* background-color: #FF7008; */
+    /* height: 10px; */
+    color: #ff7008;
+    border: 6px SOLID #FF7008;
+    background: #FF7008;
+    border-radius: 25px;}
